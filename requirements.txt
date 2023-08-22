@@ -7,3 +7,4 @@ joblib
 yellowbrick
 sweetviz
 imbalanced-learn
+boto3
