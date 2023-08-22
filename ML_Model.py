@@ -5,7 +5,7 @@ import boto3
 import tempfile
 import joblib
 
-# from secret import access_key, secret_access_key
+from secret import access_key, secret_access_key
 import requests
 from streamlit_lottie import st_lottie_spinner
 
