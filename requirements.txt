@@ -8,3 +8,4 @@ yellowbrick
 sweetviz
 imbalanced-learn
 boto3
+streamlit-lottie
